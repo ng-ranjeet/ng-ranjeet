@@ -56,7 +56,7 @@
 
 ## 🐍 Snake Animation
 
-<img src="https://raw.githubusercontent.com/ng-ranjeet/github-readme-activity-graph/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
