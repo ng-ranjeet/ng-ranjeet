@@ -5,17 +5,22 @@ on:
     - cron: "0 0 * * *" # runs every day at midnight
   workflow_dispatch: # allows manual trigger
 
+permissions:
+  contents: write # IMPORTANT! Allows git push
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ng-ranjeet # your GitHub username
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Commit & Push changes
         run: |
           git config user.name "github-actions[bot]"
@@ -23,3 +28,4 @@ jobs:
           git add dist/*.svg
           git commit -m "Generate Snake Animation" || echo "No changes to commit"
           git push
+
