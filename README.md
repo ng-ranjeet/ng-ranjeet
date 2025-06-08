@@ -1,3 +1,4 @@
+
 <!-- README.md -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=230&section=header&text=Ranjeet%20Kumar%20Sahoo&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cloud%20Infra%20%7C%20DevOps%20Ninja&descAlignY=60&animation=fadeIn" />
@@ -26,6 +27,27 @@
 
 ---
 
+## 🛣️ My Tech Journey
+
+- 🧱 Started with basic HTML, CSS, JS  
+- 🚀 Mastered Angular, TypeScript, Node.js  
+- 🐳 Fell in love with Docker & Microservices  
+- ☁️ Built scalable infrastructure with AWS, K8s  
+- 🔁 Automated everything via CI/CD pipelines  
+- 🧠 Diving deep into CNCF & Open Source  
+
+---
+
+## 🧩 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [📦 AgroKart](https://github.com/ranjeetkumar/agrokart) | eCommerce platform with 2M+ products | Angular, Node.js, MySQL, Redis |
+| [🩺 Parag Medical](https://github.com/ranjeetkumar/parag-medical) | Medical order & stock mgmt | Angular, Node.js, FCM, RDS |
+| [📱 OLX Phone Clone](https://github.com/ranjeetkumar/olx-phone) | Buy & sell second-hand phones | React Native, Firebase |
+
+---
+
 ## 📈 GitHub Highlights
 
 <div align="center">
@@ -33,6 +55,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetkumar&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
+---
+
+## 🧠 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjeetkumar&theme=tokyo-night)
+
+---
+
+## 🐍 Snake Animation
+
+<img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
+---
+
+## ✨ Dev Card
+
+<a href="https://app.daily.dev/ranjeetkumar">
+  <img src="https://api.daily.dev/devcards/ranjeetkumar.svg?type=default&r=8d1gkk9l" width="300" alt="Ranjeet's Dev Card"/>
+</a>
 
 ---
 
@@ -46,12 +88,25 @@
 
 ---
 
-## 🦾 Currently Working On
+## 🏆 Trophies
 
-- 🔁 **CI/CD pipelines** using GitHub Actions, Jenkins, Docker & Helm
-- 🏗️ **Scalable Microservices** on AWS (ECS/EKS + RDS + S3)
-- 🔍 **Cloud Monitoring & Logging** via CloudWatch + Prometheus + Grafana
-- 🔐 **Security** hardening for cloud infrastructure
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjeetkumar&theme=tokyonight&margin-w=10" />
+</p>
+
+---
+
+## 🧮 GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/ranjeetkumar?template=terminal" />
+</p>
+
+---
+
+## 🧠 Quote of the Day
+
+> 💬 "The best way to predict the future is to invent it." – Alan Kay
 
 ---
 
