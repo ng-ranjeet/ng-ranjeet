@@ -56,15 +56,13 @@
 
 ## 🐍 Snake Animation
 
-<img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/ng-ranjeet/github-readme-activity-graph/output/github-contribution-grid-snake.svg" alt="snake gif" />
 
 ---
 
 ## ✨ Dev Card
 
-<a href="https://app.daily.dev/ranjeetkumar">
-  <img src="https://api.daily.dev/devcards/ng-ranjeet.svg?type=default&r=8d1gkk9l" width="300" alt="Ranjeet's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/ranjeetkumar55"><img src="https://api.daily.dev/devcards/v2/r01qnFRYLt5p1ZrXBoKFA.png?r=zf6" width="356" alt="Ranjeet kumar sahoo's Dev Card"/></a>
 
 ---
 
