@@ -1,86 +1,64 @@
-<div align="center">
+<!-- README.md -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">Hi 👋, I'm Ranjeet Kumar Sahoo</h1>
+<h3 align="center">🚀 Full Stack Developer | ⚙️ DevOps Enthusiast | ☁️ Cloud Engineer</h3>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=435&lines=Hello..Visionaries!;Ranjeet+Kumar+Sahoo...Here!)](https://git.io/typing-svg)
-
-</div>
-
-# 💫 About Me:
-
-Full Stack developer
-<br>
-
-🚀 Empowering Innovation Through DevOps | Mastering the Art of Scaling, Automating, and Orchestrating Modern Infrastructure
-<br>
-
-🌱 Exploring Open Source and CNCF Projects.
-<br>
-
-👀 On the path to Dive Deep in DevOps.
-<br>
-
-⚡ In my free time, I spent time on learning cool stuffs.
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iemafzalhassan) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iemafzalhassan) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/iemafzalhassan) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iemafzalhassan) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iemafzalhassan) 
-
-
-
-# 💻 Tech Stack:
-![Angular](https://img.shields.io/badge/angular-ee3ae9?logo=angular) 
-![Node Js](https://img.shields.io/badge/Node%20js-3c823b?logo=nodedotjs)
-![MySql](https://img.shields.io/badge/MySql-015a85?logo=mysql)
-![MongoDb](https://img.shields.io/badge/MongoDb-199555?logo=mongodb)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white)  
-
-
-
-<a href="https://www.buymeacoffee.com/iemafzalhassan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
----
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iemafzalhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3AF926&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Cloud+Engineer+%7C+DevOps+Lover;Passionate+about+scaling+infra+and+building+secure+apps.;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🧑‍💻 About Me
+
+✨ I'm a passionate **Full Stack Developer** with a strong grasp of both frontend finesse and backend logic.  
+🔧 I specialize in **Angular + Node.js**, crafting scalable apps and delivering exceptional user experiences.  
+🚀 A DevOps enthusiast exploring the world of automation, containers, cloud, and CI/CD workflows.  
+🌱 Currently diving deep into **Java**, **CNCF open source** projects, and **cloud-native architecture**.  
+🎯 Always on a mission to create impactful, scalable, and secure digital solutions.
 
 ---
 
-### ✍️ Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Architect&quoteType=random)
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iemafzalhassan&limit=5&theme=merko&combine_all_yearly_contributions=true)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumar&show_icons=true&theme=radical&border_radius=15&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar&layout=compact&theme=radical&border_radius=15" width="48%" />
+</p>
 
 ---
-<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=iemafzalhassan&icon=2&color=12)](https://visitcount.itsvg.in)
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ranjeetkumar" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 
