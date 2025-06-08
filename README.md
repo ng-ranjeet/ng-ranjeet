@@ -38,29 +38,19 @@
 
 ---
 
-## 🧩 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [📦 AgroKart](https://github.com/ranjeetkumar/agrokart) | eCommerce platform with 2M+ products | Angular, Node.js, MySQL, Redis |
-| [🩺 Parag Medical](https://github.com/ranjeetkumar/parag-medical) | Medical order & stock mgmt | Angular, Node.js, FCM, RDS |
-| [📱 OLX Phone Clone](https://github.com/ranjeetkumar/olx-phone) | Buy & sell second-hand phones | React Native, Firebase |
-
----
-
 ## 📈 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumar&show_icons=true&theme=tokyonight&hide_border=true&custom_title=🔥%20My%20GitHub%20Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetkumar&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ng-ranjeet&show_icons=true&theme=tokyonight&hide_border=true&custom_title=🔥%20My%20GitHub%20Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ng-ranjeet&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-ranjeet&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
 
 ## 🧠 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjeetkumar&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ng-ranjeet&theme=tokyo-night)
 
 ---
 
@@ -73,7 +63,7 @@
 ## ✨ Dev Card
 
 <a href="https://app.daily.dev/ranjeetkumar">
-  <img src="https://api.daily.dev/devcards/ranjeetkumar.svg?type=default&r=8d1gkk9l" width="300" alt="Ranjeet's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/ng-ranjeet.svg?type=default&r=8d1gkk9l" width="300" alt="Ranjeet's Dev Card"/>
 </a>
 
 ---
@@ -91,7 +81,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjeetkumar&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ng-ranjeet&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
@@ -99,7 +89,7 @@
 ## 🧮 GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ranjeetkumar?template=terminal" />
+  <img src="https://metrics.lecoq.io/ng-ranjeet?template=terminal" />
 </p>
 
 ---
@@ -113,7 +103,7 @@
 ## 📊 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranjeetkumar&style=flat-square&color=0FF0FC" />
+  <img src="https://komarev.com/ghpvc/?username=ng-ranjeet&style=flat-square&color=0FF0FC" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
