@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 **Full Stack Developer** — Angular + Node.js + TypeScript
+- 🎯 **Full Stack Developer** — Angular + Node.js + TypeScript + Java + Spring Boot
 - ☁️ **Cloud & DevOps Engineer** — AWS | Docker | Kubernetes | Jenkins
 - 🛠️ Infrastructure & CI/CD automator with a strong focus on security and performance
 - 💡 Tech explorer, CNCF project follower, Open Source enthusiast
